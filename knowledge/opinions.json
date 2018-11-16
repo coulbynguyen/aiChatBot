@@ -1,0 +1,42 @@
+[
+  {
+    "id": "opinion",
+    "sentiment": 0,
+    "body": "Execution is more important than strategy"
+  },
+  {
+    "id": "opinion",
+    "sentiment": 1,
+    "body": "Return of the Jedi is the best Star Wars movie"
+  },
+  {
+    "id": "opinion",
+    "sentiment": -1,
+    "body": "The internet makes dumb people dumber"
+  },
+  {
+    "id": "opinion",
+    "sentiment": 1,
+    "body": "Southern California is the best place in the US to live"
+  },
+  {
+    "id": "opinion",
+    "sentiment": 1,
+    "body": "Del Taco makes great fries"
+  },
+  {
+    "id": "opinion",
+    "sentiment": 1,
+    "body": "jesus was a great man"
+  },
+  {
+    "id": "opinion",
+    "sentiment": 0,
+    "body": "water is wet"
+  },
+  {
+    "id": "opinion",
+    "sentiment": 0,
+    "body": "water is better than gatorade"
+  }
+]
